@@ -46,3 +46,5 @@ def main_game():
 
 if __name__ == '__main__': #zabezpieczenie przed odpaleniem kodu w innym pliku od razu po imporcie, trzeba wywołać ręcznie za pomocą HangmanGame.maingame ???
     main_game()
+
+fgfdgd
